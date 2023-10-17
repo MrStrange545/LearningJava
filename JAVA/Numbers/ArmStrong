@@ -1,0 +1,14 @@
+package Numbers;
+public class ArmStrong
+{
+    public static void main(String[] args)
+    {
+
+    }
+    void input()
+    {
+        Scanner scr=new Scanner(System.in);
+        System.out.println("Enter the number ");
+        int n=scr.nextInt();
+    }
+}
