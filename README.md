@@ -15,10 +15,7 @@ __Name-__ Devendra Kumar <br>
 __Gender-__ Male <br>
 __Birth Date-__ 22-05-2005 <br>
 __Age-__ 19 years <br>
-__Country-__ India <br>
-__State-__ Uttar Prasdesh <br> 
-__pin code-__ 207001 <br>
-__Phone Number-__ 9012265671 <br>  
+__Country-__ India <br> 
 __Email-__ Softwaredev545@gmail.com
 
 ## Useful Websites 
