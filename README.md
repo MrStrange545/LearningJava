@@ -15,8 +15,6 @@ __Name-__ Devendra Kumar <br>
 __Gender-__ Male <br>
 __Birth Date-__ 22-05-2005 <br>
 __Age-__ 19 years <br>
-__Country-__ India <br> 
-__Email-__ Softwaredev545@gmail.com
 
 ## Useful Websites 
 [FreecodeCamp](https://www.freecodecamp.org/) <br>
