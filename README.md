@@ -1,13 +1,10 @@
-# Software Development 
+# Learning Java With me.
 Welcome my friend <br>
-Have a sweet Smile for you are going to see something new about Software Developement.
+Have a sweet Smile for you are going to Learn  something new about Learning Java.
 ## Repository Introduction 
-This repository is made for Solely Software Development Purpose. <br>
+This repository is made for Solely for Education Purpose. <br>
 In this repository I will be using following tools
 + Java
-+ Python
-+ Html
-+ CSS
 + Intellij Idea
 + Youtube
 + Several books
@@ -25,4 +22,11 @@ __Phone Number-__ 9012265671 <br>
 __Email-__ Softwaredev545@gmail.com
 
 ## Useful Websites 
-[FreecodeCamp](https://www.freecodecamp.org/)
+[FreecodeCamp](https://www.freecodecamp.org/) <br>
+[JavaTPoint](https://www.javatpoint.com/) <br>
+## Useful Youtube Channel
+[Core Java Playlist in 200 hours ](https://www.youtube.com/watch?v=eTXd89t8ngI&list=PLd3UqWTnYXOlDN1ShvI0LSuxl-9THz4jm) <br>
+[Advanced java Playlist in 54 hours ](https://www.youtube.com/watch?v=eso86YqpCeI&list=PLmEIJ0ZlD1HSLMdyAWciph2YKCm2Smgdq) <br>
+## The Best Helping Agent
+[ChatGpt](https://chat.openai.com/c/8fabdd9b-d51b-4477-abb3-01789916d09a)
+
