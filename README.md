@@ -28,4 +28,7 @@ __Email-__ Softwaredev545@gmail.com
 ## The Best Helping Agent
 [ChatGpt](https://chat.openai.com/c/8fabdd9b-d51b-4477-abb3-01789916d09a)
 
+## How to Learn from My Repository.
+#### First View Source code And Analyze from it. <br> Then i have Also made some notes in Notes Folder from which you can download notes.
+
 
