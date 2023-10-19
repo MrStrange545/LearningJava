@@ -7,7 +7,7 @@ public class Reference
         try
         {
             Scanner scr = new Scanner(System.in);
-            System.out.println("Enter the number");
+            System.out.println("Please ,Enter the number");
             return scr.nextInt();
         }
         catch(Exception e)
@@ -71,6 +71,18 @@ public class Reference
         for(int i=2;i<=n/2;i++)
         {
             if(n%i==0)
+            {
+                return false;
+            }
+        }
+        return true;
+    }
+    public static boolean isCoPrime(int a,int b)
+    {
+        int n=Math.min(a,b);
+        for(int i=2;i<=n;i++)
+        {
+            if(a%i==0&&b%i==0)
                 return false;
         }
         return true;

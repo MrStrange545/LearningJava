@@ -1,4 +1,5 @@
 package Numbers;
+import static Numbers.Reference.*;
 public class Automorphic
 {
     public static boolean isAutomorphic(int n, int c)
@@ -7,12 +8,12 @@ public class Automorphic
     }
     public static void manager()
     {
-        int n=Reference.input();
-        if(!(Reference.checkInput(n)))
+        int n= input();
+        if(!(checkInput(n)))
             System.exit(0);
-        int c=Reference.counter(n);
+        int c= counter(n);
         boolean flag=isAutomorphic(n,c);
-        Reference.display(flag);
+        display(flag);
     }
     public static void main(String[] args)
     {

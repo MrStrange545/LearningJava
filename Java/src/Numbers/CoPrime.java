@@ -8,7 +8,7 @@ public class CoPrime
         int b=input();
         if(!(checkInput(a)&&checkInput(b)))
             System.exit(0);
-        boolean flag=isPrime(a)&&isPrime(b);
+        boolean flag=isCoPrime(a,b);
         display(flag);
     }
     public static void main(String[] args)
